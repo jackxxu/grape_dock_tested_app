@@ -8,7 +8,7 @@ require 'dock_test'
 DockTest.configure do |c|
   c.url = case ENV['DOCK_ENV']
           when 'production'
-            'http://vast-reaches-9635.herokuapp.com/'
+            'http://still-castle-9991.herokuapp.com/'
           else
             'http://localhost:9871'
           end
