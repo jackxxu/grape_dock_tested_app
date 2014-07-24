@@ -5,7 +5,6 @@ gem 'grape'
 gem 'rake'
 gem 'bundler'
 gem 'multi_json'
-gem 'thread_safe'
 
 group :test do
   gem 'guard-jruby-minitest', '0.1.7'
