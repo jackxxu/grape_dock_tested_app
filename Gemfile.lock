@@ -108,3 +108,4 @@ DEPENDENCIES
   multi_json
   rake
   terminal-notifier-guard
+  thread_safe
